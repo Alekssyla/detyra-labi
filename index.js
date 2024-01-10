@@ -14,4 +14,4 @@ console.log(index);
 
 let result = email.lastIndexOf("g");
 console.log(result);
-console.log("Bimi");
+console.log("Bimi hi");
